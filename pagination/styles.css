@@ -214,6 +214,7 @@ Pagination
 .next-btn {
   background: transparent;
   border-color: transparent;
+  color: rgb(251, 251, 253);
   font-weight: bold;
   text-transform: capitalize;
   letter-spacing: var(--spacing);
